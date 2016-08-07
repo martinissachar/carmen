@@ -5,7 +5,7 @@ en:
       abd:
         name: Aberdeenshire
       abe:
-        name: Aberdeen City
+        name: Aberdeen
       agb:
         name: Argyll and Bute
       agy:
@@ -65,7 +65,7 @@ en:
       bry:
         name: Bromley
       bst:
-        name: Bristol, City of
+        name: Bristol
       bur:
         name: Bury
       cam:
@@ -137,7 +137,7 @@ en:
       dud:
         name: Dudley
       dur:
-        name: Durham, County
+        name: County Durham
       eal:
         name: Ealing
       eaw:
@@ -145,7 +145,7 @@ en:
       eay:
         name: East Ayrshire
       edh:
-        name: Edinburgh, City of
+        name: Edinburgh
       edu:
         name: East Dunbartonshire
       eln:
@@ -177,7 +177,7 @@ en:
       gbn:
         name: Great Britain
       glg:
-        name: Glasgow City
+        name: Glasgow
       gls:
         name: Gloucestershire
       gre:
@@ -247,7 +247,7 @@ en:
       lmv:
         name: Limavady
       lnd:
-        name: London, City of
+        name: London
       lrn:
         name: Larne
       lsb:
@@ -361,7 +361,7 @@ en:
       say:
         name: South Ayrshire
       scb:
-        name: Scottish Borders, The
+        name: Scottish Borders
       sct:
         name: Scotland
       sfk:
@@ -435,7 +435,7 @@ en:
       ukm:
         name: United Kingdom
       vgl:
-        name: Vale of Glamorgan, The;Bro Morgannwg
+        name: Vale of Glamorgan;Bro Morgannwg
       war:
         name: Warwickshire
       wbk:
